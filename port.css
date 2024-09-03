@@ -934,11 +934,13 @@ body{
 
     }
     .home .profession-container{
-        height: 85.8rem;
+        height: 88.8rem;
+        width: 100%;
     }
     .home .profession-container .profession-box{
         right: -12rem;
-        height: 85.8rem;
+        height: 88.8rem;
+        width: 100%;
     }
     .home .profession-container .overlay{
         right: -9rem;
